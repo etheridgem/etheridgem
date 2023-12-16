@@ -23,8 +23,7 @@ Hello, My Name is Morgan Etheridge. I am in the Winter 2024 Code Louisville Prog
 
 
 ---
-> When the power of love overcomes the love of power, the world will know peace.
-— Jimi Hendrix
+> All that we are is the result of what we have thought. The mind is everything. What we think we become.
 <!--
 **etheridgem/etheridgem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
